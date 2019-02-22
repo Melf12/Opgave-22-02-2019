@@ -1,0 +1,2 @@
+Hej Simon, jeg har nu lavet en ny branch
+hvor der er en ny tekst fil
